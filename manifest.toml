@@ -9,7 +9,7 @@ description.fr = "p5.js Editor est un site Web pour créer des croquis p5.js"
 
 version = "2.16.7~ynh1"
 
-maintainers = []
+maintainers = ["eric_G"]
 
 [upstream]
 license = "LGPL-2.1"
