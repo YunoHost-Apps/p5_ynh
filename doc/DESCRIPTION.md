@@ -1,0 +1,1 @@
+The p5.js Editor is a website for creating p5.js sketches, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else! You can create, share, or remix p5.js sketches without needing to download or configure anything.

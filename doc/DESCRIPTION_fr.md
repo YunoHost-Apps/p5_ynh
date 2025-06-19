@@ -1,0 +1,1 @@
+L'éditeur p5.js est un site web permettant de créer des esquisses p5.js, dans le but de rendre le codage accessible et inclusif pour les artistes, les concepteurs, les éducateurs, les débutants et toute autre personne ! Vous pouvez créer, partager ou remixer des esquisses p5.js sans avoir besoin de télécharger ou de configurer quoi que ce soit.
