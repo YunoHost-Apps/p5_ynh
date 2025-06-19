@@ -4,36 +4,36 @@ It shall NOT be edited by hand.
 -->
 
 <h1>
-  <img src="https://raw.githubusercontent.com/YunoHost/apps/main/logos/scratch.png" width="32px" alt="Logo of Scratch">
-  Scratch, packaged for YunoHost
+  <img src="https://raw.githubusercontent.com/YunoHost/apps/main/logos/p5.png" width="32px" alt="Logo of p5.js">
+  p5.js, packaged for YunoHost
 </h1>
 
-Programming language to create your own interactive stories, games, and animations
+p5.js Editor is a website for creating p5.js sketches
 
-[![🌐 Official app website](https://img.shields.io/badge/Official_app_website-darkgreen?style=for-the-badge)](https://scratch.mit.edu/)
-[![App Demo](https://img.shields.io/badge/App_Demo-blue?style=for-the-badge)](https://scratch.mit.edu/projects/editor/?tutorial=getStarted)
-[![Version: 5.1.77~ynh1](https://img.shields.io/badge/Version-5.1.77~ynh1-rgba(0,150,0,1)?style=for-the-badge)](https://ci-apps.yunohost.org/ci/apps/scratch/)
+[![🌐 Official app website](https://img.shields.io/badge/Official_app_website-darkgreen?style=for-the-badge)](https://editor.p5js.org/)
+[![App Demo](https://img.shields.io/badge/App_Demo-blue?style=for-the-badge)](https://editor.p5js.org/)
+[![Version: 2.16.7~ynh1](https://img.shields.io/badge/Version-2.16.7~ynh1-rgba(0,150,0,1)?style=for-the-badge)](https://ci-apps.yunohost.org/ci/apps/p5/)
 
 <div align="center">
-<a href="https://apps.yunohost.org/app/scratch"><img height="100px" src="https://github.com/YunoHost/yunohost-artwork/raw/refs/heads/main/badges/neopossum-badges/badge_more_info_on_the_appstore.svg"/></a>
-<a href="https://github.com/YunoHost-Apps/scratch_ynh/issues"><img height="100px" src="https://github.com/YunoHost/yunohost-artwork/raw/refs/heads/main/badges/neopossum-badges/badge_report_an_issue.svg"/></a>
+<a href="https://apps.yunohost.org/app/p5"><img height="100px" src="https://github.com/YunoHost/yunohost-artwork/raw/refs/heads/main/badges/neopossum-badges/badge_more_info_on_the_appstore.svg"/></a>
+<a href="https://github.com/YunoHost-Apps/p5_ynh/issues"><img height="100px" src="https://github.com/YunoHost/yunohost-artwork/raw/refs/heads/main/badges/neopossum-badges/badge_report_an_issue.svg"/></a>
 </div>
 
 ## 📦 Developer info
 
-[![Automatic tests level](https://apps.yunohost.org/badge/cilevel/scratch)](https://ci-apps.yunohost.org/ci/apps/scratch/)
+[![Automatic tests level](https://apps.yunohost.org/badge/cilevel/p5)](https://ci-apps.yunohost.org/ci/apps/p5/)
 
-🛠️ Upstream Scratch repository: <https://github.com/scratchfoundation/scratch-gui>
+🛠️ Upstream p5.js repository: <https://github.com/processing/p5.js-web-editor>
 
-Pull request are welcome and should target the [`testing` branch](https://github.com/YunoHost-Apps/scratch_ynh/tree/testing).
+Pull request are welcome and should target the [`testing` branch](https://github.com/YunoHost-Apps/p5_ynh/tree/testing).
 
 The `testing` branch can be tested using:
 ```
 # fresh install:
-sudo yunohost app install https://github.com/YunoHost-Apps/scratch_ynh/tree/testing
+sudo yunohost app install https://github.com/YunoHost-Apps/p5_ynh/tree/testing
 
 # upgrade an existing install:
-sudo yunohost app upgrade scratch -u https://github.com/YunoHost-Apps/scratch_ynh/tree/testing
+sudo yunohost app upgrade p5 -u https://github.com/YunoHost-Apps/p5_ynh/tree/testing
 ```
 
 ### 📚 App packaging documentation
